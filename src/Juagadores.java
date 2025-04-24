@@ -47,5 +47,6 @@ class Jugador {
         }
 
         scanner.close();
+        //porque todos sabemos amar, pero pocos sabemos querer, amar es sufrir
     }
 }
